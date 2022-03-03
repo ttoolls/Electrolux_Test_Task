@@ -3,6 +3,7 @@
 This is my solution for job interview task from Electrolux.
 
 The task is the following:
+
 // ----- Step 1
 
 Write a public API to interact with a hardware UART (USART) block, which should include:
